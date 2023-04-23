@@ -1,0 +1,24 @@
+.common{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+
+
+}
+.image{
+   align-content: flex-start;
+}
+
+.header{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    height: 40px   ;
+}
+
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+
+
+}
